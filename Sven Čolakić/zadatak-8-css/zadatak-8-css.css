@@ -1,0 +1,10 @@
+.naslov{
+    text-align: center;
+    color: red;
+    background-color: yellow;
+}
+.odlomak{
+    text-align: justify;
+    color: blue;
+    background-color: green;
+}

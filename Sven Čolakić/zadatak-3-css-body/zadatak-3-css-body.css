@@ -1,0 +1,11 @@
+body{
+    background-color:#A80000;
+    background-image: url("zadatak-3-css-body/carnet.png");
+    background-repeat: repeat-y;
+}
+h1{background-color:#C00000;
+    text-align: center;
+}
+p{background-color:#E00000;
+    text-align: center;
+}

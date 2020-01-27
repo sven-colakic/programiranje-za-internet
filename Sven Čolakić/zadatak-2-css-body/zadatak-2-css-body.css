@@ -1,0 +1,10 @@
+body{
+    background-color:#A80000;
+    background-image: url("../carnet.png");
+}
+h1{background-color:#C00000;
+    text-align: center;
+}
+p{background-color:#E00000;
+    text-align: center;
+}
