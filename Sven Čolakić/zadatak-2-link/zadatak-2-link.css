@@ -1,0 +1,36 @@
+.naslov{
+    text-align: center;
+    font-family: "Verdana", Geneva, sans-serif;
+    font-size: 40em;
+    font-weight: bolder;
+}
+.odlomak1{
+    font-size: 12em;
+    font-family: "Tahoma", Geneva, sans-serif;
+    font-weight: lighter;
+}
+.odlomak2{
+    font-variant: small-caps;
+    font-weight: 300;
+    font-size: 12em;
+}
+
+a:link{
+    background-color: blue;
+    color: pink;
+}
+a:visited{
+    background-color: darkslateblue;
+    color: darkblue;
+}
+
+a:hover{
+    background-color: red;
+    color: white;
+    text-decoration: none;
+}
+
+a:active{
+    background-color: green;
+    color: black;
+}

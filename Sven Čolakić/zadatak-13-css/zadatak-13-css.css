@@ -1,0 +1,26 @@
+.naslov{
+    text-align: center;
+    color: red;
+    background-color: yellow;
+}
+.odlomak1{
+    text-transform: uppercase;
+    text-decoration: overline;
+    text-indent: 20px;
+    letter-spacing: 2px;
+    line-height: 0.5;
+    direction: ltr;
+    word-spacing: -5px;
+}
+.odlomak2{
+    letter-spacing: -2px;
+    text-decoration: line-through;
+    line-height: 1.5;
+    direction: rtl;
+    word-spacing: 15px;
+}
+.odlomak3{
+    line-height: 15px;
+    direction: ltr;
+    word-spacing: -1px;
+}
