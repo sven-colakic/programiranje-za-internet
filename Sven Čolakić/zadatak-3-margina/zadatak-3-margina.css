@@ -1,0 +1,17 @@
+.a{
+    background-color: yellow;
+}
+.b{
+    border: 1px solid red;
+    margin:100px 150px 100px 80px;
+}
+div{
+    background-color: grey;
+    border: 1px solid red;
+    margin-left: 100px;
+
+}
+
+.c{
+    margin-left: inherit;
+}

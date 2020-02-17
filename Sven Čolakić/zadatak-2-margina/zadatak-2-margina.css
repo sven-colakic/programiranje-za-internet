@@ -1,0 +1,11 @@
+.a{
+    background-color: yellow;
+}
+.b{
+    border: 1px solid red;
+    margin:100px 150px 100px 80px;
+    text-align: center;
+}
+div{
+    background-color: grey;
+}
