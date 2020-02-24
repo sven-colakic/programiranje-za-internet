@@ -1,0 +1,10 @@
+table{
+    border: 5px dashed pink;
+    text-align: center;
+    vertical-align: middle;
+
+
+}
+tr,td{
+    height: 25px;
+}
